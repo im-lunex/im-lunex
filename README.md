@@ -86,8 +86,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItachiDevX&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=ItachiDevX&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ClaverXDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=ClaverXDev&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
 </div>
 
 ###
