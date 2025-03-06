@@ -3,10 +3,10 @@
 ☀️ **Full-Stack Developer by day** | 🌙 **Laravel Community Contributor by night**  
 
 ## 🚀 About Me  
-- 🎯 **Full-Stack Developer @ Medicare**  
-- 🎤 **Host & Organizer @ Laracon EU**  
-- 🌍 Active in the **Laravel Community**  
+- 🎯 **Full-Stack Developer @ Hobby**  
+- 🎤 **Coder & Learner**  
+- 🌍 Active in the **Arch Community**  
 
 ## ⚙️ My Daily Stack  
-```php
-[ '.php', '.js', '.html', '.css', '.svg', '.psd', '.ai' ]
+```js
+const stack = [".tsx", ".jsx", ".ts", ".js", ".env"];
