@@ -1,17 +1,11 @@
-# Hey there, code adventurer! 👋  
+Hi! Im Lunex
 
-☀️ **Full-Stack Developer by day** | 🌙 **Deep Learner & Customization Enthusiast**  
+Coffee goes cold while I'm deep in dotfiles again. Another night tweaking window manager configs, another morning discovering something new about Rust. 
 
-## 🚀 About Me  
-- 🎯 **Full-Stack Developer @ Hobby**  
-- 🎤 **Code Explorer & Lifelong Learner**  
-- 🏴‍☠️ **Tinkering in the Arch Community**  
+There's beauty in minimal setups and elegant code.
 
-## ⚙️ My Daily Stack  
-```js
-const stack = [
-  "TypeScript (.ts, .tsx)",
-  "JavaScript (.js, .jsx)",
-  "Environment Configs (.env)",
-  "Customization & Automation"
-];
+```
+status = "always_learning"
+current_obsession = "rust"
+dev_env = "Arch"
+```
