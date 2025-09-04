@@ -6,6 +6,6 @@ There's beauty in minimal setups and elegant code.
 
 ```
 status = "always_learning"
-current_obsession = "rust"
+current_obsession = "C++"
 dev_env = "Arch"
 ```
