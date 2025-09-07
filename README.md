@@ -1,11 +1,11 @@
 Hi! Im Lunex
 
-Coffee goes cold while diving deep in dotfiles again. Another night tweaking window manager configs, another morning discovering something new about c++. 
+Coffee goes cold while diving deep in dotfiles again. Another night tweaking window manager configs, another morning discovering something new about rust. 
 
 There's beauty in minimal setups and elegant code.
 
 ```
 status = "always_learning"
-current_obsession = "c++"
+current_obsession = "rust"
 dev_env = "arch"
 ```
