@@ -1,6 +1,6 @@
 Hi! Im Lunex
 
-Coffee goes cold while diving deep in dotfiles again. Another night tweaking window manager configs, another morning discovering something new about rust. 
+Coffee goes cold while diving deep in dotfiles again. Another night tweaking Zed configs, another morning discovering something new about rust. 
 
 There's beauty in minimal setups and elegant code.
 
