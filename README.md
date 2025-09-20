@@ -1,7 +1,6 @@
 Hi! Im Lunex
 
-Who dives into Rust's core—figuring out lifetimes, traits, and the borrow checker's rules to build code that's safe and handles async tasks smoothly. Evenings turn into chats on Discord and Reddit, swapping thoughts on zero-cost abstractions and iterators with other developers. Weekends bring time for articles from This Week in Rust, plus episodes of Jon Gjengset's podcast that break down crates and Clippy's tips. Running through everything is the habit of tweaking Zed's setup—adjusting themes and keybindings for a clean, straightforward workflow. It's a steady rhythm of learning, line by line.
-
+A Rust enthusiast dives deep into the language's core concepts—like lifetimes, traits, and borrow checker rules—to craft safe, efficient code that smoothly manages async tasks. Evenings spark lively chats on Discord and Reddit, swapping insights on zero-cost abstractions and iterators with fellow developers. Weekends are for poring over This Week in Rust newsletters and Jon Gjengset's podcast episodes, which unpack crates and Clippy's handy lints. All the while, they customize their Zed editor, tweaking themes and keybindings for a clean, streamlined workflow. It's a consistent rhythm of line-by-line learning and growth.
 ```
 status = "always_learning"
 current_obsession = "rust"
