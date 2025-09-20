@@ -1,8 +1,16 @@
-Hi! Im Lunex
+# Hi, I'm Lunex!
 
-Coffee goes cold while diving deep in dotfiles again. Another night tweaking Zed configs, another morning discovering something new about rust. 
+Software developer passionate about clean code, minimal setups, and Rust. I tweak dotfiles, experiment with Zed configs, and build efficient tools on Arch Linux.
 
-There's beauty in minimal setups and elegant code.
+## Currently
+- Diving into Rust for systems programming
+- Optimizing workflows with tmux, Neovim, and Git
+
+## Tech Stack
+- **OS**: Arch Linux
+- **Editor**: Zed
+- **Languages**: Rust, Python, JS
+- **Tools**: Docker, shell scripting
 
 ```
 status = "always_learning"
