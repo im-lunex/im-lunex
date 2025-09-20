@@ -7,5 +7,5 @@ There's beauty in minimal setups and elegant code.
 ```
 status = "always_learning"
 current_obsession = "rust"
-dev_env = "arch"
+dev_env = "arch + zed"
 ```
