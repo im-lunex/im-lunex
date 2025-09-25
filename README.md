@@ -1,9 +1,9 @@
-Hi! Im Lunex
+Hi! im Lunex!
 
-A Rust dev masters lifetimes, traits, and borrow rules for safe async code, chats zero-cost abstractions on Discord/Reddit evenings, devours This Week in Rust and Jon Gjengset podcasts weekends, and tweaks Zed editor for efficiency—all in steady, line-by-line learning.
+A dedicated Rust developer, currently expanding into C++ and deepening my expertise in problem-solving. Currently exploring production-level codebases to build practical experience and optimize my development workflow. I prefer streamlined environments that deliver exceptional performance with simplicity and precision
 
 ```
-status = "always_learning"
-current_obsession = "rust"
-dev_env = "arch + zed"
+status = "learning"
+current_obsession = "c++"
+dev_env = "arch + zed + alacritty"
 ```
