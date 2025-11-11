@@ -1,8 +1,8 @@
-Hi, im Lunex!
+Hey, I'm Lunex
 
-A dedicated Rust developer, currently expanding into C++ and deepening my expertise in problem-solving. Currently exploring production-level codebases to build practical experience and optimize my development workflow. I prefer streamlined environments that deliver exceptional performance with simplicity and precision
+Rust developer learning C++ and working on getting better at problem-solving. Spending time reading through production codebases to understand how things actually work.
 
-```
+```rust
 status = "learning"
 current_obsession = "cpp"
 dev_env = "arch + zed + alacritty"
