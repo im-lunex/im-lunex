@@ -1,6 +1,7 @@
 // Lunex
 // Backend developer building systems that don't crumble at 3am
 
+```
 #include <vector>
 #include <string>
 
@@ -18,3 +19,4 @@ int main() {
     // Reading production code to see how things break
     return 0;
 }
+```
