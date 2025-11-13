@@ -3,14 +3,14 @@
 █▀█ ██▄ ░█░ ▄   █ ░ █░▀░█   █▄▄ █▄█ █░▀█ ██▄ █░█ █
 ```
 
-Backend developer building systems that don't crumble at 3am...
+ʙᴀᴄᴋᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀ ʙᴜɪʟᴅɪɴɢ sʏsᴛᴇᴍs ᴛʜᴀᴛ ᴅᴏɴ'ᴛ ᴄʀᴜᴍʙʟᴇ ᴀᴛ 3ᴀᴍ...
 ```cpp
 #include <vector>
 #include <string>
 
 std::vector<std::string> stack = {"Rust", "Go", "C++"};
 std::string focus = "solving problems that matter";
-std::string vibe = "clean code, zero bullshit";
+std::string vibe = "clean code";
 
 // Currently: Reviewing production grade codebases to understand how things work
 // Learning: Go for speed, C++ for the pain
