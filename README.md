@@ -8,12 +8,12 @@
 #include <vector>
 #include <string>
 
-std::vector<std::string> stack = {"Rust", "Go", "C++"};
+std::vector<std::string> stack = {"Rust", "C++"};
 std::string focus = "solving problems that matter";
 std::string vibe = "clean code";
 
 // Currently: Reviewing production grade codebases to understand how things work
-// Learning: Go for speed, C++ for the pain
+// Learning: C++ for speed, Rust for the pain
 // Setup: Arch + Zed + Alacritty
 
 int main() {
