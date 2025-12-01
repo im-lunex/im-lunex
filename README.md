@@ -6,20 +6,22 @@
 ```cpp
 #include <vector>
 #include <string>
+#include <iostream>
 
-std::vector<std::string> stack = {"Rust", "C++"};
-std::string focus = "solving problems that matter";
-std::string vibe = "clean code";
+std::vector<std::string> stack = {"C++", "Rust"};
+std::string focus = "Low-level system programming and OS customization";
+std::string vibe = "Living in the terminal";
 
-// Currently: Reviewing production grade codebases to understand how things work
-// Learning: C++ for speed, Rust for the pain
-// Setup: Arch + Zed + Alacritty
+// Currently: Tweaking dotfiles, optimizing Linux setup, and competitive programming
+// Learning: Deep dive into kernel modules and optimizing C++ algorithms
+// Setup: Arch + VIM/Zed + Alacritty
 
 int main() {
-    // Writing backends that scale
-    // Debugging when they don't
-    // Reading production code to see how things break
-    
+    // 💻 Linux enthusiast and minimal aesthetic seeker
+    // ⚔️ Competitive Programming in C++ for speed and precision
+    // ⚙️ Customizing the operating system, one configuration file at a time
+    std::cout << "Starting the low-level journey..." << std::endl;
     return 0;
+}
 }
 ```
