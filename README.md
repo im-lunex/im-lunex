@@ -19,7 +19,7 @@ std::string vibe = "Living in the terminal";
 int main() {
     // 💻 Linux enthusiast and minimal aesthetic seeker
     // ⚔️ Competitive Programming in C++ for speed and precision
-    // ⚙️ Customizing the operating system, one configuration file at a time
+    // ⚙️ Customizing the WM
     std::cout << "Starting the low-level journey..." << std::endl;
     return 0;
 }
