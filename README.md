@@ -9,11 +9,11 @@
 #include <iostream>
 
 std::vector<std::string> stack = {"C++", "Rust"};
-std::string focus = "Low-level system programming and OS customization";
+std::string focus = "Low-level system programming and WM customization";
 std::string vibe = "Living in the terminal";
 
 // Currently: Tweaking dotfiles, optimizing Linux setup, and competitive programming
-// Learning: Deep dive into kernel modules and optimizing C++ algorithms
+// Learning: Deep dive into kernel modules and C++ algorithms
 // Setup: Arch + VIM/Zed + Alacritty
 
 int main() {
