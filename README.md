@@ -11,9 +11,9 @@ Programming is just a way of life...
 
 ---
 
-**stack** &nbsp;&nbsp; `Rust` &nbsp; `C/C++`
+**stack** &nbsp;&nbsp; `Rust` &nbsp; `C/C++` &nbsp; `Zig`
 
-**env** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `NixOS` &nbsp; `Neovim` &nbsp; `Alacritty`
+**env** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `NixOS` &nbsp; `Neovim` &nbsp; `sway`
 
 ---
 
