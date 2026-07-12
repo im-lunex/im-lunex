@@ -19,3 +19,7 @@ Programming is just a way of life...
 
 - **building** — A minimal kernel from scratch
 - **learning** — kernel internals and OS fundamentals
+
+
+-> Zed - Contributed once
+-> STB - tow PR still opened
