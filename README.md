@@ -14,6 +14,6 @@ Programming is just a way of life...
 - **learning** — wayland internals (help 😭)
 
 
--> Zed - Contributed once
-
+-> Zed - contributed once
+-> Rust - contributed Once
 -> STB - 2 PR still open
