@@ -15,5 +15,7 @@ Programming is just a way of life...
 
 
 -> Zed - contributed once
+
 -> Rust - contributed Once
+
 -> STB - 2 PR still open
