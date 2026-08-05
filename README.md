@@ -1,21 +1,23 @@
-<!-- sys.whoami -->
 Programming is just a way of life...
 
-> helloo there, meet me **lunex**. me mostly working with systems things... maybe not so good but love it... i just covered a little of the journey, have a long way out there... hope that portion goes like now exploring, learning, meeting new people...
----
-
-**stack** &nbsp;&nbsp; `Rust` &nbsp; `C/C++`
-
-**env** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `NixOS` &nbsp; `Neovim` &nbsp; `sway`
+> hey, i'm **lunex**.  
+> mostly into compiler & os stuff — not the best at it, but i love it.  
+> still early in the journey, lots left to explore, learn, and meet people along the way.
 
 ---
 
-- **building** — A wayland compositor using rust...
-- **learning** — wayland internals (help 😭)
+**stack** &nbsp;&nbsp;`Rust` · `C/C++`  
+**env** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`NixOS` · `Neovim` · `sway`
 
+---
 
--> Zed - contributed once
+### currently
 
--> Rust - contributed Once
+- **building** — a Wayland compositor in Rust
+- **learning** — Wayland internals (send help 😭)
 
--> STB - 2 PR still open
+### contributions
+
+- [Zed](https://github.com/zed-industries/zed) — contributed once
+- [Rust](https://github.com/rust-lang/rust) — contributed once
+- [STB](https://github.com/nothings/stb) — 2 PRs still open
